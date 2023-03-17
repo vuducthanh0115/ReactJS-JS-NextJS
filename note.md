@@ -451,3 +451,7 @@ function App() {
 }
 export default App;```
 ````
+
+**useRef**
+
+- Luon retun ve 1 object co 1 properti la currrent
